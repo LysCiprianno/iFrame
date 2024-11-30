@@ -1,4 +1,4 @@
-# Projeto: Linha do Tempo da Eficiência Operacional
+# Linha do Tempo da Eficiência Operacional
  
 Este projeto explora a evolução da eficiência operacional ao longo dos séculos, desde antes de 1700 até os dias atuais, utilizando uma abordagem baseada em dados. Com o uso de uma planilha do Google Sheets e uma página HTML, a história dos avanços em eficiência operacional é apresentada de forma interativa e acessível.
  
