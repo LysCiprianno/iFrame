@@ -16,6 +16,12 @@ Demonstrar como eventos, invenções e práticas impactaram a eficiência operac
 Acesse a planilha com os dados completos clicando no link abaixo:
  
 [Planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1Hos_sywsV4JL0V8yITatWsN-zZ5E7F5XaKm274Ubmn0/edit?usp=sharing)
+
+## Como Visualizar a Página HTML
+ 
+Acesse diretamente a página online no link abaixo:
+ 
+[Visualizar Página HTML](https://lysciprianno.github.io/iFrame/)
  
  ## Tecnologias Utilizadas
  
